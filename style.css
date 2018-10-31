@@ -1,0 +1,110 @@
+/* TODO: design your profile with CSS */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  background-color: #FFFFFF;
+}
+
+
+h1, h2, h3 {
+  color: #449DD1;
+  font-weight: bold
+
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+
+}
+
+p {
+  font-size: 15px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.white-card {
+  border-radius: 5px;
+  background-color: white;
+  text-align: center;
+  width: 80%;
+  margin: 25px auto;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+  padding: 10px 0 10px 0;
+}
+
+#profile {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#tulum {
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.1);
+
+}
+
+#hoihan {
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.1);
+}
+
+#lombok {
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.1);
+}
+.div_banner {
+  background-color: #E8E8E8;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+  padding: 0 0 10 0
+}
+
+.social_banner {
+  background-color: #E8E8E8;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+  text-align: center;
+  padding : 5px;
+}
+
+
+.paragraph_banner {
+  text-align: center;
+}
+
+.social_list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.social_list > li {
+  display: inline-block;
+  padding: 0 15px;
+}
+
+.footer {
+   background-color: #E8E8E8;
+   text-align: center;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+  padding: 7 0  15 0;
+}
+
+.btn-red:hover {
+  color: rgba(255,255,255,0.5);
+}
+
+
